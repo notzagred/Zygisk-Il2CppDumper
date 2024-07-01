@@ -5,6 +5,7 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName com.ea.gp.fifamobile""
+#define GamePackageName 
+
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
